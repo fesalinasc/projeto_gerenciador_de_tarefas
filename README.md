@@ -1,6 +1,3 @@
-# projeto_gerenciador_de_tarefas
----
-
 # Gerenciador de Tarefas (CLI)
 
 Um simples **Gerenciador de Tarefas via terminal**, desenvolvido em Python.
