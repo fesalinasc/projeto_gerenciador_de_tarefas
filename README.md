@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas (CLI)
+# Gerenciador de Tarefas
 
 Um simples **Gerenciador de Tarefas via terminal**, desenvolvido em Python.
 Permite criar, listar, concluir e remover tarefas de forma rápida e organizada.
