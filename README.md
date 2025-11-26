@@ -59,7 +59,7 @@ As tarefas são manipuladas através do módulo `task_manager.py`.
 
 ---
 
-## 🇺🇸  (English Version)
+## 🇺🇸 (English Version)
 
 
 ➡️ **([English Version](README.en.md))**
