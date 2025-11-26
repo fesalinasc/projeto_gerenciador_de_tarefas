@@ -1,4 +1,4 @@
-# Task Manager (CLI)
+# Task Manager
 
 A simple **Terminal-based Task Manager**, developed in Python.
 
