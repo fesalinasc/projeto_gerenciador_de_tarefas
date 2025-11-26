@@ -62,7 +62,7 @@ As tarefas são manipuladas através do módulo `task_manager.py`.
 ## 🇺🇸  (English Version)
 
 
-➡️ **[English README ](https://translate.google.com/?sl=pt&tl=en&text=Gerenciador%20de%20Tarefas%20CLI&op=translate)**
+➡️ **([English Version 🇺🇸](README.en.md))**
 
 
 
@@ -73,6 +73,3 @@ As tarefas são manipuladas através do módulo `task_manager.py`.
 **Felipe Salinas Caodaglio**
 
 ---
-
-Se quiser, posso **gerar também a versão em inglês do README completa**, já pronta para colocar no GitHub!
-
